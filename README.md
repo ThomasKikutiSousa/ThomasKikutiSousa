@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thomas Kikuti Sousa
-- 👀 I’m interested in: Estou interessado em procurar estagio
+- 👀 I’m interested in: Oportunidades de estágio
 - 🌱 I’m currently learning: Sistema da Informção 
 - 💞️ I’m looking to collaborate on: banco de dados e backend
 - 📫 How to reach me: (11) 94068-3159
