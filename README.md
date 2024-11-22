@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Oportunidades de estágio
 - 🌱 I’m currently learning: Sistema da Informção 
 - 💞️ I’m looking to collaborate on: banco de dados e backend
-- 📫 How to reach me: (11) 94068-3159
+- 📫 How to reach me: thomaskikuti.github@outlook.com
   
 
 <!---
